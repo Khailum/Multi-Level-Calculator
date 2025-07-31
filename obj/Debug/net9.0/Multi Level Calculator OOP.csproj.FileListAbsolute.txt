@@ -1,0 +1,14 @@
+C:\Users\Khailum\OneDrive - redAcademy (Pty) Ltd\Desktop\Personal Projects\Multi Level Calculator OOP\bin\Debug\net9.0\Multi Level Calculator OOP.exe
+C:\Users\Khailum\OneDrive - redAcademy (Pty) Ltd\Desktop\Personal Projects\Multi Level Calculator OOP\bin\Debug\net9.0\Multi Level Calculator OOP.deps.json
+C:\Users\Khailum\OneDrive - redAcademy (Pty) Ltd\Desktop\Personal Projects\Multi Level Calculator OOP\bin\Debug\net9.0\Multi Level Calculator OOP.runtimeconfig.json
+C:\Users\Khailum\OneDrive - redAcademy (Pty) Ltd\Desktop\Personal Projects\Multi Level Calculator OOP\bin\Debug\net9.0\Multi Level Calculator OOP.dll
+C:\Users\Khailum\OneDrive - redAcademy (Pty) Ltd\Desktop\Personal Projects\Multi Level Calculator OOP\bin\Debug\net9.0\Multi Level Calculator OOP.pdb
+C:\Users\Khailum\OneDrive - redAcademy (Pty) Ltd\Desktop\Personal Projects\Multi Level Calculator OOP\obj\Debug\net9.0\Multi Level Calculator OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khailum\OneDrive - redAcademy (Pty) Ltd\Desktop\Personal Projects\Multi Level Calculator OOP\obj\Debug\net9.0\Multi Level Calculator OOP.AssemblyInfoInputs.cache
+C:\Users\Khailum\OneDrive - redAcademy (Pty) Ltd\Desktop\Personal Projects\Multi Level Calculator OOP\obj\Debug\net9.0\Multi Level Calculator OOP.AssemblyInfo.cs
+C:\Users\Khailum\OneDrive - redAcademy (Pty) Ltd\Desktop\Personal Projects\Multi Level Calculator OOP\obj\Debug\net9.0\Multi Level Calculator OOP.csproj.CoreCompileInputs.cache
+C:\Users\Khailum\OneDrive - redAcademy (Pty) Ltd\Desktop\Personal Projects\Multi Level Calculator OOP\obj\Debug\net9.0\Multi Level Calculator OOP.dll
+C:\Users\Khailum\OneDrive - redAcademy (Pty) Ltd\Desktop\Personal Projects\Multi Level Calculator OOP\obj\Debug\net9.0\refint\Multi Level Calculator OOP.dll
+C:\Users\Khailum\OneDrive - redAcademy (Pty) Ltd\Desktop\Personal Projects\Multi Level Calculator OOP\obj\Debug\net9.0\Multi Level Calculator OOP.pdb
+C:\Users\Khailum\OneDrive - redAcademy (Pty) Ltd\Desktop\Personal Projects\Multi Level Calculator OOP\obj\Debug\net9.0\Multi Level Calculator OOP.genruntimeconfig.cache
+C:\Users\Khailum\OneDrive - redAcademy (Pty) Ltd\Desktop\Personal Projects\Multi Level Calculator OOP\obj\Debug\net9.0\ref\Multi Level Calculator OOP.dll

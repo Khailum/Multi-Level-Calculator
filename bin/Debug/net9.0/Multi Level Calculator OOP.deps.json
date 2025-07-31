@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Multi Level Calculator OOP/1.0.0": {
+        "runtime": {
+          "Multi Level Calculator OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multi Level Calculator OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
